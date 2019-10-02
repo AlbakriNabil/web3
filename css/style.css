@@ -11,7 +11,7 @@ body {
 	font-family: 'Flamenco', cursive;
 }
 
-header {
+.img-main-header {
 	background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(images/111.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
